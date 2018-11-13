@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /// <summary>
-/// The purpose of this assignment is to enhance to UI. The records are now edited in a dedicated Dialog
+/// The purpose of this assignment is to enhance the UI. The records are now edited in a dedicated Dialog
 /// </summary>
 
 namespace COMP2614Assign06B
