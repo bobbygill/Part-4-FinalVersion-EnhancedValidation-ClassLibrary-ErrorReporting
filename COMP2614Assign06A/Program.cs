@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /// <summary>
-/// The purpose of this assignment is to enhance the UI. The records are now edited in a dedicated Dialog
+/// Bobby Gill - A00913705 COMP2614 Assign06D
+/// Program that shows examples of querying an SQL server, displaying the data in a Windows Form (datagridview), 
+/// a dialog, message box, validation layer, lambda expressions, C.R.U.D operations, using a class library, code separation, 
+/// regular expressions, and other fun stuff!
 /// </summary>
 
 namespace COMP2614Assign06B
